@@ -13,6 +13,7 @@ public class Main {
         System.out.println("a: "+triangle.a);
         System.out.println("b: "+triangle.b);
         System.out.println("c: "+triangle.c);
+        System.out.println("commiiittttt");
         triangle.area();
     }
 }
